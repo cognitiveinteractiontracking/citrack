@@ -1,0 +1,24 @@
+[submodule "genicam_cvb"]
+	path = genicam_cvb
+	url = https://github.com/cognitiveinteractiontracking/genicam_cvb.git
+[submodule "demo"]
+	path = demo
+	url = https://github.com/cognitiveinteractiontracking/demo
+[submodule "calibration"]
+	path = calibration
+	url = https://github.com/cognitiveinteractiontracking/calibration.git
+[submodule "tf_to_movebase"]
+	path = tf_to_movebase
+	url = https://github.com/cognitiveinteractiontracking/tf_to_movebase.git
+[submodule "models"]
+	path = models
+	url = https://github.com/cognitiveinteractiontracking/models.git
+[submodule "tracker"]
+	path = tracker
+	url = https://github.com/cognitiveinteractiontracking/tracker.git
+[submodule "localization"]
+	path = localization
+	url = https://github.com/cognitiveinteractiontracking/localization.git
+[submodule "rviz_textured_quads"]
+	path = rviz_textured_quads
+	url = https://github.com/lucasw/rviz_textured_quads.git
